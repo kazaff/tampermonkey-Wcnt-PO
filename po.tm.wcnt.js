@@ -2,8 +2,8 @@
 // @name         w-connect
 // @namespace    https://erp.friendwell.com/
 // @version      0.1
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/kazaff/tampermonkey-Wcnt-PO/main/po.tm.wcnt.js
+// @downloadURL  https://raw.githubusercontent.com/kazaff/tampermonkey-Wcnt-PO/main/po.tm.wcnt.js
 // @description  make the PO live easier
 // @author       kazaff
 // @match        https://erp.friendwell.com/*
